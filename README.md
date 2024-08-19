@@ -1,1 +1,1 @@
-# GeeksforGeeks---Problem-of-the-day---Solutions
+# GeeksforGeeks-POTD-Solutions
